@@ -1,0 +1,17 @@
+﻿D:\Program Files (x86)\visual studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(ChatRoom.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pch.cpp
+  ChatRoom.cpp
+  ChatRoomDlg.cpp
+  IOCP_SERVER.cpp
+G:\c++ program\IOCP_ChatRoom\ChatRoom\IOCP_SERVER.cpp(105,67): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+G:\c++ program\IOCP_ChatRoom\ChatRoom\IOCP_SERVER.cpp(505,52): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+G:\c++ program\IOCP_ChatRoom\ChatRoom\IOCP_SERVER.cpp(506,57): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+G:\c++ program\IOCP_ChatRoom\ChatRoom\IOCP_SERVER.cpp(581,54): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+G:\c++ program\IOCP_ChatRoom\ChatRoom\IOCP_SERVER.cpp(688,34): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+G:\c++ program\IOCP_ChatRoom\ChatRoom\IOCP_SERVER.cpp(700,20): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  server.cpp
+G:\c++ program\IOCP_ChatRoom\ChatRoom\server.cpp(114,20): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  client.cpp
+G:\c++ program\IOCP_ChatRoom\ChatRoom\client.cpp(42,27): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  正在生成代码...
+  ChatRoom.vcxproj -> G:\c++ program\IOCP_ChatRoom\Debug\IOCP_ChatRoom.exe
