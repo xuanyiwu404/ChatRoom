@@ -4,6 +4,7 @@
 #include "ChatRoomDlg.h"
 #include "resource.h"
 
+
 DWORD WINAPI ConnectThreadFunc(LPVOID pParam)
 {
 	CChatRoomDlg* pchatroom = static_cast<CChatRoomDlg*>(pParam);
